@@ -11,5 +11,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=sass)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lo4rt)](https://git.io/streak-stats)
 
 [![Profile badge](https://www.codewars.com/users/lo4rt/badges/large)](https://www.codewars.com/users/lo4rt)
